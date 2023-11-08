@@ -1,0 +1,10 @@
+<svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ticket">
+<g id="Group">
+<path id="Stroke 1" d="M11.5414 1.54199V3.55866" stroke="#6C757D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Stroke 3" d="M11.5414 12.8002V14.4868" stroke="#6C757D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Stroke 6" d="M11.5414 9.9373V5.9198" stroke="#6C757D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path id="Stroke 7" fill-rule="evenodd" clip-rule="evenodd" d="M15.5851 14.6667C17.1035 14.6667 18.3333 13.4522 18.3333 11.9527V9.79224C17.3286 9.79224 16.5194 8.99313 16.5194 8.0009C16.5194 7.00867 17.3286 6.2087 18.3333 6.2087L18.3324 4.04742C18.3324 2.54791 17.1017 1.33337 15.5842 1.33337H4.41572C2.8982 1.33337 1.6675 2.54791 1.6675 4.04742L1.66663 6.27908C2.67135 6.27908 3.48053 7.00867 3.48053 8.0009C3.48053 8.99313 2.67135 9.79224 1.66663 9.79224V11.9527C1.66663 13.4522 2.89646 14.6667 4.41485 14.6667H15.5851Z" stroke="#6C757D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
